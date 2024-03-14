@@ -1,4 +1,4 @@
-# Indian-census-analysis-using_sql-
+# Indian-census-analysis-using_sql
 The Indian Census Data Analysis Project is a comprehensive initiative aimed at extracting meaningful insights from the vast trove of demographic data collected during the Indian census. This project involves sophisticated data analytics techniques to analyze population trends, distribution patterns, socio-economic indicators, and more. By delving into this rich dataset, analysts aim to uncover key demographic shifts, regional disparities, and societal challenges across India's diverse landscape. 
 
 
